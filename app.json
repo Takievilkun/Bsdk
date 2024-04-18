@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Jisshubot/JISSHU-BOT",
-    "repository": "https://github.com/Jisshubot/JISSHU-BOT",
+    "website": "https://github.com/Takievilkun/Bsdk",
+    "repository": "https://github.com/Takievilkun/Bsdk",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
