@@ -15,8 +15,19 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Takievilkun/Bsdk",
-    "repository": "https://github.com/Takievilkun/Bsdk",
+    
+    
+   "repository": "https://github.com/Takievilkun/Bsdk",
+       
+   "stack": "heroku-22",
+   "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
